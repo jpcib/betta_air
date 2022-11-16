@@ -1,17 +1,16 @@
 baseURL: http://example.org/
 languageCode: en-us
 theme: graysx-hugo
-title: Example Graysx Site
+title: Betta Lab
 params:
-  address: 123 Arch B1W, GNU/Linux
-  email: hello@graysx.com
-  facebook: '#'
+  address: Buenos Aires
+  email: vote@betta.ar
   favicon: assets/favicon.png
   github: https://github.com/akatiggerx04/graysx-hugo
-  # logo: assets/img/g150.png
-  phone: '123456'
-  sbtoken: TOKEN_HERE
-  twitter: '#'
+  # # logo: assets/img/g150.png
+  # phone: '123456'
+  # sbtoken: TOKEN_HERE
+  # twitter: '#'
 menu:
   main:
     # - URL: '#about'
